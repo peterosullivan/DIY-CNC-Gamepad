@@ -46,7 +46,7 @@
 #define BUTTON_KEY6 KEY_RIGHT_ARROW
 #define BUTTON_KEY7 KEY_DOWN_ARROW 
 
-#define BUTTON_KEY8 KEY_ESC
+#define BUTTON_KEY8 '`'  //Backtick key is the 'reset' toggle for Mach3
 
 
 // Pin definitions
